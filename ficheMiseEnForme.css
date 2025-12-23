@@ -1,0 +1,93 @@
+.container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.container h2 {
+  color: #333;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 10px;
+}
+
+.itineraire-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 6px;
+}
+
+.itineraire-controls label {
+  font-weight: bold;
+  color: #555;
+}
+
+.itineraire-controls select, .itineraire-controls button {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.itineraire-controls button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.itineraire-controls button:hover {
+  background-color: #45a049;
+}
+
+#tableauPoints table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+#tableauPoints th, #tableauPoints td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+#tableauPoints th {
+  background-color: #4CAF50;
+  color: white;
+  font-weight: 600;
+}
+
+#tableauPoints tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+#tableauPoints tr:hover {
+  background-color: #f1f1f1;
+}
+
+#tableauPoints td:first-child {
+  font-weight: bold;
+  color: #333;
+}
+
+#lienItineraire a {
+  color: #4CAF50;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+#lienItineraire a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Page des fiches de passage</title>
+    
+  <link rel="stylesheet" href="ficheMiseEnForme.css">
+  
+  <script src="FicheEtPointDePassage.js"></script>
+  <script src="GeneratePageWithListe.js"></script>
+
+</head>
+<body>
+  <main>
+    <div class="container">
+      <h2>Points de passage : <span id="ficheDescription"></span></h2>
+      <div class="fiche-selector">
+        <label for="ficheSelect">Choisir une fiche :</label>
+        <select id="ficheSelect"></select>
+      </div>
+      <div class="itineraire-controls">
+        <label for="depart">Point de départ :</label>
+        <select id="depart"></select>
+        <label for="arrivee">Point d’arrivée :</label>
+        <select id="arrivee"></select>
+        <button id="genererItineraire">Générer l’itinéraire</button>
+      </div>
+      <div id="lienItineraire" style="margin-top: 20px;"></div>
+      <div id="tableauPoints"></div>
+    </div>
+  </main>
+</body>
+</html>
