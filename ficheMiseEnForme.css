@@ -96,8 +96,16 @@
 
 
 
+
 @media (width < 1200px) {
   .container {
-    font-size: 1.4em;
+    font-size: 1.8em;
+    max-width: none;
+  }
+  select, #depart, #arrivee {
+    font-size: 0.8em;
+  }
+  option {
+    font-size: 0.5em;
   }
 }
