@@ -99,13 +99,16 @@
 
 @media (width < 1200px) {
   .container {
-    font-size: 1.8em;
+    font-size: 2em;
     max-width: none;
   }
+  #genererItineraire {
+    font-size: 1.2em;
+  }
   select, #depart, #arrivee {
-    font-size: 0.8em;
+    font-size: 1em;
   }
   option {
-    font-size: 0.5em;
+    font-size: 0.7em;
   }
 }
