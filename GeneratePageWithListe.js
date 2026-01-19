@@ -42,8 +42,6 @@ window.onload = (event) => {
           <tr>
             <th>Ordre</th>
             <th>Nom</th>
-            <th>Latitude</th>
-            <th>Longitude</th>
             <th>Lien Google Maps</th>
           </tr>
         </thead>
@@ -55,10 +53,8 @@ window.onload = (event) => {
         <tr>
           <td>${point.ordre}</td>
           <td>${point.nom}</td>
-          <td>${point.latitude}</td>
-          <td>${point.longitude}</td>
           <td>
-            <a href="https://www.google.com/maps/dir/?api=1&destination=${point.latitude},${point.longitude}&travelmode=driving" target="_blank">
+            <a href="https://www.google.com/maps/dir/?api=1&destination=${point.latitude},${point.longitude}&travelmode=driving&avoid=tolls" target="_blank">
               Itinéraire vers ce point
             </a>
           </td>
@@ -103,7 +99,7 @@ window.onload = (event) => {
 
     // Construire le lien Google Maps avec waypoints
     let waypoints = pointsSelectionnes.map(point => `${point.latitude},${point.longitude}`).join('|');
-    const lienItineraire = `https://www.google.com/maps/dir/?api=1&waypoints=${waypoints}&destination=${pointsSelectionnes[pointsSelectionnes.length - 1].latitude},${pointsSelectionnes[pointsSelectionnes.length - 1].longitude}&travelmode=driving`;
+    const lienItineraire = `https://www.google.com/maps/dir/?api=1&waypoints=${waypoints}&destination=${pointsSelectionnes[pointsSelectionnes.length - 1].latitude},${pointsSelectionnes[pointsSelectionnes.length - 1].longitude}&travelmode=driving&avoid=tolls`;
 
     // Afficher le lien
     document.getElementById('lienItineraire').innerHTML = `
@@ -112,4 +108,6 @@ window.onload = (event) => {
       </a>
     `;
   });
+
+  
 };
