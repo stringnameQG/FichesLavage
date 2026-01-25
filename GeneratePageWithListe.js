@@ -96,7 +96,7 @@ window.onload = (event) => {
     const pointArrivee = pointsSelectionnes.pop();
 
     // Construire le lien Google Maps avec waypoints
-    let waypoints = pointsSelectionnes.map(point => `${point.latitude},${point.longitude}`).join('|');
+    const waypoints = pointsSelectionnes.map(point => `${point.latitude},${point.longitude}`).join('|');
 
     const lienItineraire = `https://www.google.com/maps/dir/?api=1&waypoints=${waypoints}&destination=${pointArrivee.latitude},${pointArrivee.longitude}&travelmode=driving&avoid=tolls`;
 
