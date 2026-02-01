@@ -1,17 +1,16 @@
-window.onload = (event) => {
+"use strict";
+window.onload = (event) => {  
   // Remplir la liste déroulante des fiches
   const selectFiche = document.getElementById('ficheSelect');
-  FicheData.fiches.forEach(fiche => {
+  FicheData.fiches.forEach((fiche, index) => {
     const option = document.createElement('option');
-    option.value = fiche.id;
+    option.value = index;
     option.textContent = fiche.description;
     selectFiche.appendChild(option);
   });
 
   // Fonction pour mettre à jour l'affichage en fonction de la fiche sélectionnée
   function updateDisplayForFiche(fiche) {
-    // Trier les points de passage par ordre croissant
-    fiche.PointDePassages.sort((a, b) => a.ordre - b.ordre);
 
     // Remplir les listes déroulantes de départ et d’arrivée
     const selectDepart = document.getElementById('depart');
@@ -19,10 +18,10 @@ window.onload = (event) => {
     selectDepart.innerHTML = '';
     selectArrivee.innerHTML = '';
 
-    fiche.PointDePassages.forEach(point => {
+    fiche.PointDePassages.forEach((point, index) => {
       const option = document.createElement('option');
-      option.value = point.ordre;
-      option.textContent = `Point ${point.ordre} (${point.nom})`;
+      option.value = index;
+      option.textContent = `${index} ${point.nom}`;
       selectDepart.appendChild(option.cloneNode(true));
       selectArrivee.appendChild(option);
     });
@@ -68,13 +67,23 @@ window.onload = (event) => {
   // Écouter le changement de fiche
   selectFiche.addEventListener('change', () => {
     const ficheId = parseInt(selectFiche.value);
-    const fiche = FicheData.fiches.find(f => f.id === ficheId);
+    localStorage.setItem("lastFicheId", ficheId);
+    const fiche = FicheData.fiches[ficheId];
     updateDisplayForFiche(fiche);
   });
 
   // Initialiser avec la première fiche
-  updateDisplayForFiche(FicheData.fiches[0]);
 
+
+  if(localStorage.getItem("lastFicheId") == null || undefined ) {
+    localStorage.setItem("lastFicheId", 0);
+    updateDisplayForFiche(FicheData.fiches[0]);
+  }
+  else {
+    const defaultValue = localStorage.getItem("lastFicheId");
+    updateDisplayForFiche(FicheData.fiches[defaultValue]);
+  }
+  
   // Générer l’itinéraire personnalisé
   document.getElementById('genererItineraire').addEventListener('click', () => {
     const ficheId = parseInt(selectFiche.value);
@@ -88,8 +97,8 @@ window.onload = (event) => {
     }
 
     // Filtrer les points entre départ et arrivée (inclus)
-    const pointsSelectionnes = fiche.PointDePassages.filter(
-      point => point.ordre >= depart && point.ordre <= arrivee
+    const pointsSelectionnes = fiche.PointDePassages.filter((element, index) => 
+      index >= depart && index <= arrivee
     );
     
     // Récupére le point d'arrivée
