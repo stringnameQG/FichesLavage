@@ -87,7 +87,7 @@ window.onload = (event) => {
   // Générer l’itinéraire personnalisé
   document.getElementById('genererItineraire').addEventListener('click', () => {
     const ficheId = parseInt(selectFiche.value);
-    const fiche = FicheData.fiches.find(f => f.id === ficheId);
+    const fiche = FicheData.fiches[ficheId];
     const depart = parseInt(document.getElementById('depart').value);
     const arrivee = parseInt(document.getElementById('arrivee').value);
 
