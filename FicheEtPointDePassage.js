@@ -47,7 +47,7 @@ const FicheData = {
         {nom: "SUCE-SUR-ERDRE 1643", latitude: "47.349632", longitude: "-1.54006" },
         {nom: "SUCE-SUR-ERDRE 1618", latitude: "47.340515", longitude: "-1.537142" },
         {nom: "SUCE-SUR-ERDRE 1016", latitude: "47.343639", longitude: "-1.50856" },
-        {nom: "SAINT-MARS-DU-DESERT 0389", latitude: "47.349358", longitude: "-1.464615" },
+        {nom: "SAINT-MARS-DU-DESERT 0389", latitude: "47.375297", longitude: "-1.450568" },
         {nom: "SAINT-MARS-DU-DESERT 0354", latitude: "47.357708", longitude: "-1.457319" },
         {nom: "SAINT-MARS-DU-DESERT 1278", latitude: "47.375622", longitude: "-1.450453" },
         {nom: "SAINT-MARS-DU-DESERT 1258", latitude: "47.34933", longitude: "-1.464748" },
