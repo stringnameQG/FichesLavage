@@ -40,7 +40,7 @@ const FicheData = {
         {nom: "PETIT-MARS 1045", latitude: "47.397594", longitude: "-1.448221" },
         {nom: "PETIT-MARS 1840", latitude: "47.398327", longitude: "-1.45277" },
         {nom: "PETIT-MARS 1299", latitude: "47.408688", longitude: "-1.463327" },
-        {nom: "PETIT-MARS 1946", latitude: "47.40881", longitude: "-1.463585" },
+        {nom: "PETIT-MARS 1946", latitude: "47.393264", longitude: "-1.451107" },
         {nom: "PETIT-MARS 1161", latitude: "47.404892", longitude: "-1.468477" },
         {nom: "SUCE-SUR-ERDRE 1576", latitude: "47.376564", longitude: "-1.505728" },
         {nom: "SUCE-SUR-ERDRE 1970", latitude: "47.348843", longitude: "-1.535425" },
