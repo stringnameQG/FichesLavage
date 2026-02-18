@@ -53,7 +53,7 @@ const FicheData = {
         {nom: "SAINT-MARS-DU-DESERT 1258", latitude: "47.34933", longitude: "-1.464748" },
         {nom: "SAINT-MARS-DU-DESERT 1162", latitude: "47.383003", longitude: "-1.453028" },
         {nom: "PETIT-MARS 1943", latitude: "47.393131", longitude: "-1.451225" },
-        {nom: "PETIT-MARS 1925", latitude: "47.387753", longitude: "-1.433201" },
+        {nom: "PETIT-MARS 1925", latitude: "47.388015", longitude: "-1.433102" },
         {nom: "SAINT-MARS-DU-DESERT 0353", latitude: "47.367897", longitude: "-1.416807" },
         {nom: "SAINT-MARS-DU-DESERT 1706", latitude: "47.363861", longitude: "-1.41715" },
         {nom: "SAINT-MARS-DU-DESERT 0390", latitude: "47.351074", longitude: "-1.418867" },
