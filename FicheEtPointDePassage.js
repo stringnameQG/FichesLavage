@@ -77,7 +77,7 @@ const FicheData = {
         {nom: "MESANGER 1719", latitude: "47.42815", longitude: "-1.227207" },
         {nom: "MESANGER 1922", latitude: "47.429997", longitude: "-1.190561" },
         {nom: "MESANGER 1725", latitude: "47.447991", longitude: "-1.182271" },
-        {nom: "POUILLE-LES-COTEAUX 1141", latitude: "47.459049", longitude: "-1.172791" },
+        {nom: "POUILLE-LES-COTEAUX 1141", latitude: "47.4593", longitude: "-1.173149" },
         {nom: "POUILLE-LES-COTEAUX 2174", latitude: "47.461094", longitude: "-1.178455" },
         {nom: "POUILLE-LES-COTEAUX 2175", latitude: "47.461197", longitude: "-1.178627" },
         {nom: "LA ROCHE-BLANCHE 2229", latitude: "47.451505", longitude: "-1.142558" },
