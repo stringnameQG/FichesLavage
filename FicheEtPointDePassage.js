@@ -125,7 +125,7 @@ const FicheData = {
         {nom: "SAINT-HERBLON 1837", latitude: "47.410385", longitude: "-1.096659" },
         {nom: "LA ROUXIERE 2125", latitude: "47.436646", longitude: "-1.068335" },
         {nom: "VARADES 2455", latitude: "47.418365", longitude: "-1.027908" },
-        {nom: "BELLIGNE 1629", latitude: "47.483253", longitude: "-0.975208" },
+        {nom: "BELLIGNE 1629", latitude: "47.48762987", longitude: "-1.07177009" },
         {nom: "BELLIGNE 1074", latitude: "47.473087", longitude: "-0.976667" },
         {nom: "VARADES 1757", latitude: "47.403038", longitude: "-1.000357" },
         {nom: "MONTRELAIS 1140", latitude: "47.397682", longitude: "-0.983791" },
