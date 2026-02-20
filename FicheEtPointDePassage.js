@@ -85,7 +85,7 @@ const FicheData = {
         {nom: "PANNECE 2182", latitude: "47.487888", longitude: "-1.174421" },
         {nom: "PANNECE 1142", latitude: "47.487888", longitude: "-1.174421" },
         {nom: "MAUMUSSON 1902", latitude: "47.488170", longitude: "-1.1174346" },
-        {nom: "BELLIGNE 2189", latitude: "47.497501", longitude: "-1.071854" },
+        {nom: "BELLIGNE 2189", latitude: "47.48319263", longitude: "-0.97540833" },
         {nom: "BELLIGNE 1048", latitude: "47.470722", longitude: "-1.036663" },
         {nom: "BELLIGNE 1897", latitude: "47.472702", longitude: "-1.026106" },
         {nom: "BELLIGNE 1896", latitude: "47.467377", longitude: "-1.028509" },
