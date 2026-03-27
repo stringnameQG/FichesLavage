@@ -73,8 +73,6 @@ window.onload = (event) => {
   });
 
   // Initialiser avec la première fiche
-
-
   if(localStorage.getItem("lastFicheId") == null || undefined ) {
     localStorage.setItem("lastFicheId", 0);
     updateDisplayForFiche(FicheData.fiches[0]);
@@ -117,5 +115,37 @@ window.onload = (event) => {
     `;
   });
 
-  
+
+
+  const buttonRecherchePointDePassage = document.getElementById('recherchePointDePassageButton');
+
+  buttonRecherchePointDePassage.addEventListener('click', () => {
+    const inputRecherchePointDePassage = document.getElementById('recherchePointDePassage');
+    const chaineRechercher = inputRecherchePointDePassage.value;
+
+    if(chaineRechercher != "") {
+      const ListPointDePassage = recherchePointDePassage(chaineRechercher);
+      document.getElementById('recherchePointDePassageResultat').innerHTML = afficherTableau(ListPointDePassage);
+    }
+
+  })
+
+  // recherche point de passage fonction
+  function recherchePointDePassage (chaineRechercher) {
+    let ListPointDePassage = [];
+
+    FicheData.fiches.forEach((fiche) => {
+      Object.values(fiche).forEach((pointDePassage) => {
+        if(Array.isArray(pointDePassage)) {  
+          Object.values(pointDePassage).forEach((test) => {
+            if(test.nom.search(chaineRechercher) != -1) {
+              ListPointDePassage.push(test);
+            }
+          })
+        }}
+      )}
+    );
+
+    return ListPointDePassage;
+  }
 };
