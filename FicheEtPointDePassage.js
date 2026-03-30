@@ -289,6 +289,7 @@ const FicheData = {
         {nom: "RUFFIGNE 0338", latitude: "47.751587", longitude: "-1.514912" },
         {nom: "SION-LES-MINES 1180", latitude: "47.724438", longitude: "-1.521864" },
         {nom: "SAINT-AUBIN-DES-CHATEAUX 1759", latitude: "47.699501", longitude: "-1.513023" },
+{nom: "SAINT-AUBIN-DES-CHATEAUX 1028", latitude: "47.703773", longitude: "-1.488819" },
         {nom: "SAINT-AUBIN-DES-CHATEAUX 1610", latitude: "47.720661", longitude: "-1.491909" },
         {nom: "SAINT-AUBIN-DES-CHATEAUX 1611", latitude: "47.720661", longitude: "-1.491909" },
         {nom: "SAINT-AUBIN-DES-CHATEAUX 1800", latitude: "47.727013", longitude: "-1.508989" },
