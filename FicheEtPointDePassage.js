@@ -159,7 +159,7 @@ const FicheData = {
         {nom: "TREILLIERES 1270", latitude: "47.295883", longitude: "-1.6113" },
         {nom: "TREILLIERES 1288", latitude: "47.306931", longitude: "-1.619125" },
         {nom: "SAINT MICHEL CHEF CHEF 1413", latitude: "47.304554", longitude: "-1.630869" },
-        {nom: "TREILLIERES 1731", latitude: "47.305756", longitude: "-1.633015" },
+        {nom: "TREILLIERES 1888", latitude: "47.305756", longitude: "-1.633015" },
         {nom: "VIGNEUX-DE-BRETAGNE 1419", latitude: "47.325362", longitude: "-1.732441" },
         {nom: "VIGNEUX-DE-BRETAGNE 0320", latitude: "47.299492", longitude: "-1.664429" },
         {nom: "VIGNEUX-DE-BRETAGNE 2053", latitude: "47.315369", longitude: "-1.684084" },
