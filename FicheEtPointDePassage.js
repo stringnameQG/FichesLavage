@@ -1342,7 +1342,7 @@ const FicheData = {
         {nom: "CAMPBON 179", latitude: "47.408569", longitude: "-1.969814" },
         {nom: "LA CHAPELLE-LAUNAY 30", latitude: "47.370304", longitude: "-1.970501" },
         {nom: "SAVENAY 147", latitude: "47.361736", longitude: "-1.943893" },
-        {nom: "MALVILLE 31", latitude: "47.360947", longitude: "-1.863298" },
+        {nom: "MALVILLE 31", latitude: "47.362767", longitude: "-1.863054" },
         {nom: "FAY-DE-BRETAGNE 93", latitude: "47.415878", longitude: "-1.789999" },
         {nom: "HERIC 43", latitude: "47.414246", longitude: "-1.653614" },
         {nom: "BLAIN 41", latitude: "47.433899", longitude: "-1.711035" },
