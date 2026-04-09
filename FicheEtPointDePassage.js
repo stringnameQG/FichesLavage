@@ -1354,7 +1354,7 @@ const FicheData = {
         {nom: "DERVAL 99", latitude: "47.664574", longitude: "-1.668463" },
         {nom: "DERVAL 215", latitude: "47.664871", longitude: "-1.66872" },
         {nom: "MOUAIS 96", latitude: "47.696198", longitude: "-1.644602" },
-        {nom: "SION-LES-MINES 66", latitude: "47.73465", longitude: "-1.592073" },
+        {nom: "SION-LES-MINES 66", latitude: "47.734952", longitude: "-1.591655" },
         {nom: "ROUGE 92", latitude: "47.786324", longitude: "-1.450624" },
         {nom: "CHATEAUBRIANT 51", latitude: "47.719032", longitude: "-1.378355" },
         {nom: "CHATEAUBRIANT 198", latitude: "47.705608", longitude: "-1.382561" },
