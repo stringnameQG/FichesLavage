@@ -1455,7 +1455,7 @@ const FicheData = {
         {nom: "LA ROCHE-BLANCHE 76", latitude: "47.440828", longitude: "-1.136269" },
         {nom: "POUILLE-LES-COTEAUX 71", latitude: "47.455971", longitude: "-1.162148" },
         {nom: "POUILLE-LES-COTEAUX 35", latitude: "47.455971", longitude: "-1.162148" },
-        {nom: "PANNECE 222", latitude: "47.485397", longitude: "-1.239138" },
+        // {nom: "PANNECE 222", latitude: "47.485397", longitude: "-1.239138" },
         {nom: "PANNECE 59", latitude: "47.488485", longitude: "-1.241808" },
         {nom: "MESANGER 207", latitude: "47.434068", longitude: "-1.234277" },
         {nom: "LIGNE 0045", latitude: "47.4116854", longitude: "-1.3747286" },

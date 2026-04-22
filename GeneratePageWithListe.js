@@ -99,6 +99,11 @@ window.onload = (event) => {
       index >= depart && index <= arrivee
     );
     
+    if (Object.keys(pointsSelectionnes).length > 8) {
+      alert("Pas plus de 8 points");
+      return;
+    }
+    
     // Récupére le point d'arrivée
     const pointArrivee = pointsSelectionnes.pop();
 
