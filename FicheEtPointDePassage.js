@@ -1382,7 +1382,7 @@ const FicheData = {
         {nom: "BATZ-SUR-MER 19", latitude: "47.280035", longitude: "-2.488463" },
         {nom: "PIRIAC-SUR-MER 131", latitude: "47.378054", longitude: "-2.547351" },
         {nom: "GUERANDE 44", latitude: "47.334679", longitude: "-2.424717" },
-        // {nom: "HERBIGNAC 139", latitude: "47.449262", longitude: "-2.316615" },
+        {nom: "HERBIGNAC 139", latitude: "47.449262", longitude: "-2.316615" },
         {nom: "SAINTE-REINE-DE-BRETAGNE 89", latitude: "47.439655", longitude: "-2.192202" },
         {nom: "SAINTE-REINE-DE-BRETAGNE 180", latitude: "47.440598", longitude: "-2.191858" },
         {nom: "SAINTE-REINE-DE-BRETAGNE 196", latitude: "47.441452", longitude: "-2.186623" },
