@@ -1219,6 +1219,7 @@ const FicheData = {
         {nom: "REMOUILLE 151", latitude: "47.058541", longitude: "-1.375613" },
         {nom: "AIGREFEUILLE-SUR-MAINE 194", latitude: "47.075068", longitude: "-1.397437" },
         {nom: "AIGREFEUILLE-SUR-MAINE 195", latitude: "47.075327", longitude: "-1.397672" },
+{nom: "AIGREFEUILLE-SUR-MAINE 84", latitude: "47.0826469", longitude: "-1.4158392" },
         {nom: "LA PLANCHE 130", latitude: "47.017649", longitude: "-1.431954" },
         {nom: "LA PLANCHE 111", latitude: "47.017461", longitude: "-1.436573" },
         {nom: "VIEILLEVIGNE 158", latitude: "46.96814", longitude: "-1.437674" },
