@@ -1215,7 +1215,6 @@ const FicheData = {
         {nom: "MAISDON-SUR-SEVRE 170", latitude: "47.099074", longitude: "-1.385263" },
         {nom: "GORGES 104", latitude: "47.101394", longitude: "-1.304232" },
         {nom: "GORGES 52", latitude: "47.098746", longitude: "-1.297485" },
-
         {nom: "CLISSON 233", latitude: "47.08557", longitude: "-1.287455" },
         {nom: "SAINT-HILAIRE-DE-CLISSON 199", latitude: "47.065707", longitude: "-1.307678" },
         {nom: "SAINT-LUMINE-DE-CLISSON 230", latitude: "47.081489", longitude: "-1.337952" },
@@ -1412,38 +1411,15 @@ const FicheData = {
         {nom: "CHATEAU-THEBAUD 141", latitude: "47.126261", longitude: "-1.422834" },
         {nom: "CHATEAU-THEBAUD 82", latitude: "47.126027", longitude: "-1.422989" }
       ]
-    },
-
-  /*
-    {
-      description: "Test",
-      PointDePassages: [
-        { nom: "Unknow", latitude: "47.449262", longitude: "-2.316615" }, // Départ
-        { nom: "Unknow", latitude: "47.485588", longitude: "-2.156839" },
-        { nom: "Unknow", latitude: "47.440598", longitude: "-2.191858" },
-        { nom: "Unknow", latitude: "47.439655", longitude: "-2.192202" },
-        { nom: "Unknow", latitude: "47.441452", longitude: "-2.186623" },
-        { nom: "Unknow", latitude: "47.411671", longitude: "-2.168169" },
-        { nom: "Unknow", latitude: "47.421799", longitude: "-2.12182" },
-        { nom: "Unknow", latitude: "47.440538", longitude: "-2.104223" },
-        { nom: "Unknow", latitude: "47.440201", longitude: "-2.093754" },
-        { nom: "Unknow", latitude: "47.437935", longitude: "-2.088418" },
-        { nom: "Unknow", latitude: "47.434342", longitude: "-2.088802" },
-        { nom: "Unknow", latitude: "47.430984", longitude: "-2.084656" },
-        { nom: "Unknow", latitude: "47.431755", longitude: "-2.081909" },
-        { nom: "Unknow", latitude: "47.405506", longitude: "-2.05379" },
-        { nom: "Unknow", latitude: "47.476303", longitude: "-2.056503" },
-        { nom: "Unknow", latitude: "47.511406", longitude: "-2.039337" } // Arrivée
-      ]
-    },
-  */
-
+    },  
     {
       description: "Affichage Nort",
       PointDePassages: [
+        //  TOURNEE 3 SECTEUR 2
         {nom: "HERIC 43", latitude: "47.414246", longitude: "-1.653614" },
         {nom: "FAY-DE-BRETAGNE 93", latitude: "47.415878", longitude: "-1.789999" },
-        // {nom: "SAINT NAZAIRE 70 travaux", latitude: "47.298131", longitude: "-2.183278" },
+        //  TOURNEE 2 SECTEUR 2
+        {nom: "SAINT NAZAIRE 70 travaux", latitude: "47.298131", longitude: "-2.183278" },
         {nom: "LA BAULE-ESCOUBLAC 187", latitude: "47.297413", longitude: "-2.366524" },
         {nom: "LA BAULE-ESCOUBLAC 36", latitude: "47.292538", longitude: "-2.376823" },
         {nom: "LA BAULE-ESCOUBLAC 213", latitude: "47.28871277347071", longitude: "-2.3756358026166473" },
@@ -1513,6 +1489,7 @@ const FicheData = {
         {nom: "ISSE 47", latitude: "47.623158", longitude: "-1.452513" },
         {nom: "ABBARETZ 146", latitude: "47.548553", longitude: "-1.532078" },
         {nom: "SAFFRE 128", latitude: "47.501278", longitude: "-1.576538" },
+        // TOURNEE 1 SECTEUR 2 a droite
         {nom: "NORT-SUR-ERDRE 226", latitude: "47.441196", longitude: "-1.50281" },
         {nom: "NORT-SUR-ERDRE 224", latitude: "47.441196", longitude: "-1.50281" },
         {nom: "NORT-SUR-ERDRE 225", latitude: "47.441196", longitude: "-1.50281" },
@@ -1550,12 +1527,13 @@ const FicheData = {
         {nom: "SAINT-ETIENNE-DE-MONTLUC 6", latitude: "47.271683", longitude: "-1.782103" },
         {nom: "SAINT-ETIENNE-DE-MONTLUC 29", latitude: "47.278805", longitude: "-1.7906" },
         {nom: "CORDEMAIS 124", latitude: "47.302544", longitude: "-1.844845" },
-        {nom: "LE TEMPLE-DE-BRETAGNE 181", latitude: "47.325715", longitude: "-1.784486" },
+        {nom: "LE TEMPLE-DE-BRETAGNE 181", latitude: "47.325715", longitude: "-1.784486" }
       ]
     },
     {
       description: "Affichage Sud",
-      PointDePassages: [{nom: "ANCENIS 107", latitude: "47.381837", longitude: "-1.191351" },
+      PointDePassages: [  // TOURNEE 3 SECTEUR 2
+        {nom: "ANCENIS 107", latitude: "47.381837", longitude: "-1.191351" },
         {nom: "ANCENIS 72", latitude: "47.369091", longitude: "-1.177196" },
         {nom: "SAINT-HERBLON 83", latitude: "47.379838", longitude: "-1.111939" },
         {nom: "SAINT-HERBLON 221", latitude: "47.405394", longitude: "-1.104785" },
@@ -1595,6 +1573,7 @@ const FicheData = {
         {nom: "CHATEAU-THEBAUD 141", latitude: "47.126261", longitude: "-1.422834" },
         {nom: "CHATEAU-THEBAUD 82", latitude: "47.126027", longitude: "-1.422989" },
 
+        // TOURNEE 3 SECTEUR 1
         {nom: "LA CHEVROLIERE 123", latitude: "47.100802", longitude: "-1.602134" },
         {nom: "LA CHEVROLIERE 183", latitude: "47.094657", longitude: "-1.611823" },
         {nom: "LA CHEVROLIERE 68", latitude: "47.089804", longitude: "-1.610874" },
@@ -1630,42 +1609,47 @@ const FicheData = {
         {nom: "ARTHON-EN-RETZ 24", latitude: "47.121749", longitude: "-1.916268" },
         {nom: "CHEMERE 244", latitude: "47.123174", longitude: "-1.912338" },
         {nom: "ROUANS 13", latitude: "47.19275", longitude: "-1.852515" },
-
-        {nom: "LA CHEVROLIERE 123", latitude: "47.100802", longitude: "-1.602134" },
-        {nom: "LA CHEVROLIERE 183", latitude: "47.094657", longitude: "-1.611823" },
-        {nom: "LA CHEVROLIERE 68", latitude: "47.089804", longitude: "-1.610874" },
-        {nom: "LA CHEVROLIERE 46", latitude: "47.089804", longitude: "-1.610874" },
-        {nom: "LA CHEVROLIERE 242", latitude: "47.085354", longitude: "-1.612734" },
-        {nom: "SAINT-PHILBERT-DE-GRAND-LIEU 206", latitude: "47.046741", longitude: "-1.638231" },
-        {nom: "SAINT-PHILBERT-DE-GRAND-LIEU 33", latitude: "47.046211", longitude: "-1.638422" },
-        {nom: "SAINT-LUMINE-DE-COUTAIS 155", latitude: "47.053179", longitude: "-1.726756" },
-        {nom: "SAINT-LUMINE DE COUTAIS", latitude: "47.05563", longitude: "-1.72661" },
-        {nom: "SAINT MARS DE COUTAIS 189", latitude: "47.111265", longitude: "-1.735542" },
-        {nom: "SAINT MARS DE COUTAIS 211", latitude: "47.111391", longitude: "-1.735315" },
-        {nom: "SAINTE-PAZANNE 182", latitude: "47.098304", longitude: "-1.818067" },
-        {nom: "BOURGNEUF-EN-RETZ 134", latitude: "47.042215", longitude: "-1.9492" },
-        {nom: "LA BERNERIE-EN-RETZ 176", latitude: "47.085173", longitude: "-2.030504" },
-        {nom: "LA BERNERIE-EN-RETZ 2", latitude: "47.085173", longitude: "-2.030504" },
-        {nom: "LA BERNERIE-EN-RETZ 113", latitude: "47.07647", longitude: "-2.030448" },
-        {nom: "PORNIC 149", latitude: "47.121645", longitude: "-2.110983" },
-        {nom: "PORNIC 14", latitude: "47.114784", longitude: "-2.129368" },
-        {nom: "PREFAILLES 208", latitude: "47.129464", longitude: "-2.212727" },
-        {nom: "SAINT-MICHEL-CHEF-CHEF 241", latitude: "47.163014", longitude: "-2.155114" },
-        {nom: "SAINT-MICHEL-CHEF-CHEF 143", latitude: "47.188264", longitude: "-2.149846" },
-        {nom: "SAINT-BREVIN-LES-PINS 9", latitude: "47.228512", longitude: "-2.170568" },
-        {nom: "SAINT-BREVIN-LES-PINS 8", latitude: "47.267719", longitude: "-2.167219" },
-        {nom: "SAINT-PERE-EN-RETZ 197", latitude: "47.207475", longitude: "-2.043973" },
-        {nom: "SAINT-VIAUD 75", latitude: "47.252708", longitude: "-2.021099" },
-        {nom: "SAINT-VIAUD 1", latitude: "47.256773", longitude: "-2.013504" },
-        {nom: "PAIMBOEUF 232", latitude: "47.283034", longitude: "-2.017635" },
-        {nom: "FROSSAY 150", latitude: "47.247294", longitude: "-1.946014" },
-        {nom: "FROSSAY 246", latitude: "47.244664", longitude: "-1.936049" },
-        {nom: "FROSSAY 247", latitude: "47.244664", longitude: "-1.936049" },
-        {nom: "ARTHON-EN-RETZ 185", latitude: "47.113883", longitude: "-1.937685" },
-        {nom: "ARTHON-EN-RETZ 3", latitude: "47.114265", longitude: "-1.937546" },
-        {nom: "ARTHON-EN-RETZ 24", latitude: "47.121749", longitude: "-1.916268" },
-        {nom: "CHEMERE 244", latitude: "47.123174", longitude: "-1.912338" },
-        {nom: "ROUANS 13", latitude: "47.19275", longitude: "-1.852515" }
+        //  TOURNEE 2 secteur 1
+        {nom: "MAISDON-SUR-SEVRE 170", latitude: "47.099074", longitude: "-1.385263" },
+        {nom: "GORGES 104", latitude: "47.101394", longitude: "-1.304232" },
+        {nom: "GORGES 52", latitude: "47.098746", longitude: "-1.297485" },
+        {nom: "CLISSON 233", latitude: "47.08557", longitude: "-1.287455" },
+        {nom: "SAINT-HILAIRE-DE-CLISSON 199", latitude: "47.065707", longitude: "-1.307678" },
+        {nom: "SAINT-LUMINE-DE-CLISSON 230", latitude: "47.081489", longitude: "-1.337952" },
+        {nom: "REMOUILLE 105", latitude: "47.058009", longitude: "-1.374693" },
+        {nom: "REMOUILLE 151", latitude: "47.058541", longitude: "-1.375613" },
+        {nom: "AIGREFEUILLE-SUR-MAINE 194", latitude: "47.075068", longitude: "-1.397437" },
+        {nom: "AIGREFEUILLE-SUR-MAINE 195", latitude: "47.075327", longitude: "-1.397672" },
+        {nom: "AIGREFEUILLE-SUR-MAINE 84", latitude: "47.0826469", longitude: "-1.4158392" },
+        {nom: "LA PLANCHE 130", latitude: "47.017649", longitude: "-1.431954" },
+        {nom: "LA PLANCHE 111", latitude: "47.017461", longitude: "-1.436573" },
+        {nom: "VIEILLEVIGNE 158", latitude: "46.96814", longitude: "-1.437674" },
+        {nom: "LEGE 184", latitude: "46.891783", longitude: "-1.584929" },
+        {nom: "LEGE 191", latitude: "46.885856", longitude: "-1.597399" },
+        {nom: "LEGE 190", latitude: "46.885856", longitude: "-1.597399" },
+        {nom: "SAINT-ETIENNE-DE-MER-MORTE 175", latitude: "46.928561", longitude: "-1.742819" },
+        {nom: "PAULX 156", latitude: "46.961996", longitude: "-1.754302" },
+        {nom: "PAULX 201", latitude: "46.965661", longitude: "-1.756118" },
+        {nom: "MACHECOUL 127", latitude: "46.990577", longitude: "-1.822372" },
+        {nom: "BOURGNEUF-EN-RETZ 157", latitude: "47.025397", longitude: "-1.877911" },
+        {nom: "MACHECOUL 243", latitude: "46.989858", longitude: "-1.795393" },
+        {nom: "LA MARNE 169", latitude: "46.99744", longitude: "-1.73724" },
+        {nom: "SAINT-PHILBERT-DE-GRAND-LIEU 54", latitude: "47.037455", longitude: "-1.646663" },
+        {nom: "SAINT-PHILBERT-DE-GRAND-LIEU 125", latitude: "47.036209", longitude: "-1.640658" },
+        {nom: "LA TURBALLE 160", latitude: "47.041453", longitude: "-1.640681" },
+        {nom: "LA LIMOUZINIERE 114", latitude: "46.994788", longitude: "-1.595944" },
+        {nom: "LA LIMOUZINIERE 173", latitude: "46.992751", longitude: "-1.601014" },
+        {nom: "SAINT-COLOMBAN 220", latitude: "47.009392", longitude: "-1.5828" },
+        {nom: "SAINT-COLOMBAN 240", latitude: "47.014008", longitude: "-1.569991" },
+        {nom: "SAINT-COLOMBAN 174", latitude: "47.017237", longitude: "-1.567181" },
+        {nom: "GENESTON 120", latitude: "47.055644", longitude: "-1.512425" },
+        {nom: "GENESTON 32", latitude: "47.055301", longitude: "-1.515361" },
+        {nom: "GENESTON 171", latitude: "47.055071", longitude: "-1.506334" },
+        {nom: "MONTBERT 110", latitude: "47.058474", longitude: "-1.489329" },
+        {nom: "LE BIGNON 109", latitude: "47.098516", longitude: "-1.483489" },
+        {nom: "PONT-SAINT-MARTIN 121", latitude: "47.121767", longitude: "-1.575503" },
+        {nom: "PONT-SAINT-MARTIN 11", latitude: "47.127424", longitude: "-1.581126" },
+        {nom: "PONT-SAINT-MARTIN 10", latitude: "47.12759", longitude: "-1.580979" }
       ]
     }
   ]
