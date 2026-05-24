@@ -1419,7 +1419,6 @@ const FicheData = {
         {nom: "HERIC 43", latitude: "47.414246", longitude: "-1.653614" },
         {nom: "FAY-DE-BRETAGNE 93", latitude: "47.415878", longitude: "-1.789999" },
         //  TOURNEE 2 SECTEUR 2
-        {nom: "SAINT NAZAIRE 70 travaux", latitude: "47.298131", longitude: "-2.183278" },
         {nom: "LA BAULE-ESCOUBLAC 187", latitude: "47.297413", longitude: "-2.366524" },
         {nom: "LA BAULE-ESCOUBLAC 36", latitude: "47.292538", longitude: "-2.376823" },
         {nom: "LA BAULE-ESCOUBLAC 213", latitude: "47.28871277347071", longitude: "-2.3756358026166473" },
@@ -1428,7 +1427,7 @@ const FicheData = {
         {nom: "BATZ-SUR-MER 19", latitude: "47.280035", longitude: "-2.488463" },
         {nom: "PIRIAC-SUR-MER 131", latitude: "47.378054", longitude: "-2.547351" },
         {nom: "GUERANDE 44", latitude: "47.334679", longitude: "-2.424717" },
-        {nom: "HERBIGNAC 139", latitude: "47.449262", longitude: "-2.316615" },  //
+        {nom: "HERBIGNAC 139", latitude: "47.449262", longitude: "-2.316615" },
         {nom: "SAINTE-REINE-DE-BRETAGNE 180", latitude: "47.440598", longitude: "-2.191858" },
         {nom: "SAINTE-REINE-DE-BRETAGNE 196", latitude: "47.441452", longitude: "-2.186623" },
         {nom: "SAINTE-REINE-DE-BRETAGNE 89", latitude: "47.439655", longitude: "-2.192202" },
