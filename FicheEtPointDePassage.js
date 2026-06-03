@@ -375,7 +375,7 @@ const FicheData = {
         {nom: "ABBARETZ 1444", latitude: "47.580414", longitude: "-1.497574" },
         {nom: "LA MEILLERAYE-DE-BRETAGNE 1378", latitude: "47.5759", longitude: "-1.425688" },
         {nom: "NOZAY 1596", latitude: "47.584904", longitude: "-1.543322" },
-        {nom: "NOZAY 1597", latitude: "47.5832453", longitude: "-1.5837497" },
+        {nom: "NOZAY 1597", latitude: "47.582496", longitude: "-1.585262" },
         {nom: "JANS 2197", latitude: "47.629043", longitude: "-1.596473" },
         {nom: "LIEU DIT LA GRANDE VILLE 1257", latitude: "47.624989", longitude: "-1.569586" },
         {nom: "JANS 2452", latitude: "47.624691", longitude: "-1.608467" },
