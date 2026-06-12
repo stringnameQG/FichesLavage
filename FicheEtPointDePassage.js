@@ -1330,6 +1330,8 @@ const FicheData = {
         {nom: "ARTHON-EN-RETZ 3", latitude: "47.114265", longitude: "-1.937546" },
         {nom: "ARTHON-EN-RETZ 24", latitude: "47.121749", longitude: "-1.916268" },
         {nom: "CHEMERE 244", latitude: "47.123174", longitude: "-1.912338" },
+        {nom: "VUE 16", latitude: "47.200446", longitude: "-1.872705" }, 
+        {nom: "VUE 85", latitude: "47.200379", longitude: "-1.87359" },
         {nom: "ROUANS 13", latitude: "47.19275", longitude: "-1.852515" }
       ]
     },
@@ -1607,7 +1609,10 @@ const FicheData = {
         {nom: "ARTHON-EN-RETZ 3", latitude: "47.114265", longitude: "-1.937546" },
         {nom: "ARTHON-EN-RETZ 24", latitude: "47.121749", longitude: "-1.916268" },
         {nom: "CHEMERE 244", latitude: "47.123174", longitude: "-1.912338" },
+        {nom: "VUE 16", latitude: "47.200446", longitude: "-1.872705" }, 
+        {nom: "VUE 85", latitude: "47.200379", longitude: "-1.87359" },
         {nom: "ROUANS 13", latitude: "47.19275", longitude: "-1.852515" },
+
         //  TOURNEE 2 secteur 1
         {nom: "MAISDON-SUR-SEVRE 170", latitude: "47.099074", longitude: "-1.385263" },
         {nom: "GORGES 104", latitude: "47.101394", longitude: "-1.304232" },
