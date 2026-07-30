@@ -1427,7 +1427,7 @@ const FicheData = {
         {nom: "LA BAULE-ESCOUBLAC 36", latitude: "47.292538", longitude: "-2.376823" },
         {nom: "LA BAULE-ESCOUBLAC 213", latitude: "47.28871277347071", longitude: "-2.3756358026166473" },
         {nom: "BATZ-SUR-MER 12", latitude: "47.279023", longitude: "-2.481103" },
-        {nom: "LE CROISIC 20", latitude: "47.290143", longitude: "-2.507513" },
+        //  {nom: "LE CROISIC 20", latitude: "47.290143", longitude: "-2.507513" }, existe plus
         {nom: "BATZ-SUR-MER 19", latitude: "47.280035", longitude: "-2.488463" },
         {nom: "PIRIAC-SUR-MER 131", latitude: "47.378054", longitude: "-2.547351" },
         {nom: "HERBIGNAC 139", latitude: "47.449262", longitude: "-2.316615" },
