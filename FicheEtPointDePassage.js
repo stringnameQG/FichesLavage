@@ -378,7 +378,7 @@ const FicheData = {
         {nom: "NOZAY 1597", latitude: "47.582496", longitude: "-1.585262" },
         {nom: "JANS 2197", latitude: "47.629043", longitude: "-1.596473" },
         {nom: "LIEU DIT LA GRANDE VILLE 1257", latitude: "47.624989", longitude: "-1.569586" },
-        {nom: "JANS 2452", latitude: "47.624691", longitude: "-1.608467" },
+        {nom: "JANS 2452", latitude: "47.6118483", longitude: "-1.618495" },
         {nom: "JANS 1774", latitude: "47.618786", longitude: "-1.615334" },
         {nom: "JANS 1191", latitude: "47.618439", longitude: "-1.615419" },
         {nom: "JANS 2454", latitude: "47.610535", longitude: "-1.620312" },
