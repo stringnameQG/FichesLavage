@@ -388,7 +388,7 @@ const FicheData = {
         {nom: "LA GRIGONNAIS 1036", latitude: "47.527458", longitude: "-1.666489" },
         {nom: "LA GRIGONNAIS 2219", latitude: "47.522133", longitude: "-1.6749" },
         // {nom: "LA GRIGONNAIS 2200", latitude: "47.17196503", longitude: "-1.3692273" },
-        {nom: "LA GRIGONNAIS 1841", latitude: "47.517159", longitude: "-1.686058" },
+        {nom: "LA GRIGONNAIS 1841", latitude: "47.51737", longitude: "-1.685823" },
         {nom: "LA GRIGONNAIS 1338", latitude: "47.512754", longitude: "-1.694868" },
         {nom: "LA GRIGONNAIS 1942", latitude: "47.51664", longitude: "-1.678848" },
         {nom: "LA GRIGONNAIS 1035", latitude: "47.522953", longitude: "-1.665115" },
