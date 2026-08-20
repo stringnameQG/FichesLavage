@@ -736,7 +736,7 @@ const FicheData = {
         {nom: "PAULX 1316", latitude: "46.956795", longitude: "-1.760254" },
         {nom: "PAULX 1009", latitude: "46.943268", longitude: "-1.789656" },
         {nom: "MACHECOUL 1790", latitude: "46.967072", longitude: "-1.813517" },
-        {nom: "MACHECOUL 1334", latitude: "46.995907", longitude: "-1.815662" },
+        {nom: "MACHECOUL 1334", latitude: "46.995945", longitude: "-1.8158016" },
         {nom: "FRESNAY-EN-RETZ 2018", latitude: "47.023029", longitude: "-1.862526" },
         {nom: "FRESNAY-EN-RETZ 1007", latitude: "47.023972", longitude: "-1.869564" },
         {nom: "FRESNAY-EN-RETZ 0394", latitude: "47.02657", longitude: "-1.87066" },
