@@ -744,7 +744,6 @@ const FicheData = {
         {nom: "ST CYR EN RETZ 2464", latitude: "47.03326", longitude: "-1.89188" },
         {nom: "BOURGNEUF-EN-RETZ 2119", latitude: "47.029297", longitude: "-1.901064" },
         {nom: "BOURGNEUF-EN-RETZ 2026", latitude: "47.028179", longitude: "-1.904068" },
-        {nom: "BOURGNEUF-EN-RETZ 1267", latitude: "47.057793", longitude: "-1.920547" },
         {nom: "BOURGNEUF-EN-RETZ 0308", latitude: "47.046547", longitude: "-1.955824" },
         {nom: "LES MOUTIERS-EN-RETZ 1211", latitude: "47.066933", longitude: "-1.980543" },
         {nom: "LES MOUTIERS-EN-RETZ 1434", latitude: "47.063713", longitude: "-1.993332" },
