@@ -756,7 +756,7 @@ const FicheData = {
         {nom: "LA BERNERIE-EN-RETZ 1351", latitude: "47.092468", longitude: "-2.036161" },
         {nom: "LA BERNERIE-EN-RETZ 1571", latitude: "47.097702", longitude: "-2.032986" },
         {nom: "PORNIC 1531", latitude: "47.102592", longitude: "-2.060709" },
-        {nom: "PORNIC 0310", latitude: "47.104141", longitude: "-2.065859" },
+        {nom: "PORNIC 0310", latitude: "47.10399", longitude: "-2.0660283" },
         {nom: "PORNIC 1879", latitude: "47.11092", longitude: "-2.062082" },
         {nom: "PORNIC 1745", latitude: "47.114182", longitude: "-2.060795" },
         {nom: "PORNIC 1746", latitude: "47.112637", longitude: "-2.066116" },
