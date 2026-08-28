@@ -767,7 +767,7 @@ const FicheData = {
         {nom: "PORNIC 2112", latitude: "47.125938", longitude: "-2.076674" },
         {nom: "PORNIC 2113", latitude: "47.127043", longitude: "-2.0650633" },
         {nom: "PORNIC 2115", latitude: "47.129036", longitude: "-2.060709" },
-        {nom: "PORNIC 2114", latitude: "47.130234", longitude: "-2.054701" },
+        {nom: "PORNIC 2114", latitude: "47.1304283", longitude: "-2.055041" },
         {nom: "PORNIC 2156", latitude: "47.122162", longitude: "-2.054443" },
         {nom: "PORNIC 1499", latitude: "47.128685", longitude: "-2.04792" },
         {nom: "CHAUVE 1734", latitude: "47.128601", longitude: "-2.022686" },
