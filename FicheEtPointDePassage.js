@@ -800,7 +800,7 @@ const FicheData = {
         {nom: "PORNIC 1663", latitude: "47.137024", longitude: "-2.133923" },
         {nom: "LA PLAINE-SUR-MER 1100", latitude: "47.14637", longitude: "-2.146454" },
         {nom: "SAINT-MICHEL-CHEF-CHEF 1313", latitude: "47.160187", longitude: "-2.146282" },
-        {nom: "LA PLAINE-SUR-MER 1494", latitude: "47.134094", longitude: "-2.191" },
+        {nom: "LA PLAINE-SUR-MER 1494", latitude: "47.133995", longitude: "-2.190815" },
         {nom: "PREFAILLES 2037", latitude: "47.129288", longitude: "-2.197952" },
         {nom: "LA PLAINE-SUR-MER 1332", latitude: "47.139416", longitude: "-2.208681" },
         {nom: "PREFAILLES 1504", latitude: "47.134394", longitude: "-2.221021" },
