@@ -806,7 +806,7 @@ const FicheData = {
         {nom: "PREFAILLES 1504", latitude: "47.134394", longitude: "-2.221021" },
         {nom: "LA PLAINE-SUR-MER 2091", latitude: "47.145081", longitude: "-2.228508" },
         {nom: "LA PLAINE-SUR-MER 1873", latitude: "47.149715", longitude: "-2.194605" },
-        {nom: "LA PLAINE-SUR-MER 1816", latitude: "47.154846", longitude: "-2.192459" },
+        {nom: "LA PLAINE-SUR-MER 1816", latitude: "47.154905", longitude: "-2.192323" },
         {nom: "LA PLAINE-SUR-MER 0311", latitude: "47.155209", longitude: "-2.174692" },
         {nom: "SAINT MICHEL CHEF CHEF 2069", latitude: "47.17225833", longitude: "-2.15932833" },
         {nom: "SAINT-MICHEL-CHEF-CHEF 1894", latitude: "47.166195", longitude: "-2.161989" },
