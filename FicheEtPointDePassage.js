@@ -830,7 +830,7 @@ const FicheData = {
         {nom: "SAINT-BREVIN-LES-PINS 1488", latitude: "47.267475", longitude: "-2.159157" },
         {nom: "SAINT-BREVIN-LES-PINS 1490", latitude: "47.268276", longitude: "-2.153921" },
         {nom: "SAINT-BREVIN-LES-PINS 1481", latitude: "47.262829", longitude: "-2.153921" },
-        {nom: "SAINT-BREVIN-LES-PINS 1709", latitude: "47.266357", longitude: "-2.149973" },
+        {nom: "SAINT-BREVIN-LES-PINS 1709", latitude: "47.266775", longitude: "-2.1499816" },
         {nom: "SAINT-BREVIN-LES-PINS 1905", latitude: "47.265415", longitude: "-2.137184" },
         {nom: "SAINT-BREVIN-LES-PINS 2233", latitude: "47.265415", longitude: "-2.137184" },
         {nom: "SAINT BREVIN LES PINS 2067", latitude: "47.258377", longitude: "-2.140875" },
