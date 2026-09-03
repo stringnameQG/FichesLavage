@@ -838,7 +838,7 @@ const FicheData = {
         {nom: "CORSEPT 1489", latitude: "47.253399", longitude: "-2.131348" },
         {nom: "CORSEPT 1486", latitude: "47.257988", longitude: "-2.126713" },
         {nom: "CORSEPT 1485", latitude: "47.260616", longitude: "-2.125082" },
-        {nom: "CORSEPT 1482", latitude: "47.26413", longitude: "-2.107401" },
+        {nom: "CORSEPT 1482", latitude: "47.264316", longitude: "-2.1072983" },
         {nom: "CORSEPT 1480", latitude: "47.258377", longitude: "-2.103281" },
         {nom: "CORSEPT 1689", latitude: "47.251339", longitude: "-2.096586" },
         {nom: "CORSEPT 2462", latitude: "47.255486", longitude: "-2.075386" },
