@@ -869,7 +869,7 @@ const FicheData = {
         {nom: "VUE 2218", latitude: "47.205505", longitude: "-1.911278" },
         {nom: "VUE 1646", latitude: "47.201431", longitude: "-1.899347" },
         {nom: "VUE 1889", latitude: "47.194435", longitude: "-1.897545" },
-        {nom: "VUE 1053", latitude: "47.197781", longitude: "-1.890678" },
+        {nom: "VUE 1053", latitude: "47.199037", longitude: "-1.887297" },
         {nom: "VUE 1097", latitude: "47.200439", longitude: "-1.872568" },
         {nom: "ROUANS 1535", latitude: "47.180099", longitude: "-1.856346" },
         {nom: "ROUANS 1096", latitude: "47.193748", longitude: "-1.841583" },
