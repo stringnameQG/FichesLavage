@@ -1104,7 +1104,7 @@ const FicheData = {
         {nom: "LA CHAPELLE-HEULIN 1978", latitude: "47.176329", longitude: "-1.335325" },
         {nom: "LA CHAPELLE-HEULIN 1977", latitude: "47.176329", longitude: "-1.335325" },
         {nom: "LA CHAPELLE-HEULIN 1898", latitude: "47.170891", longitude: "-1.364622" },
-        {nom: "LA CHAPELLE-HEULIN 1196", latitude: "47.172718", longitude: "-1.367455" },
+        {nom: "LA CHAPELLE-HEULIN 1196", latitude: "47.1728517", longitude: "-1.36748" },
         {nom: "LA CHAPELLE-HEULIN 1921", latitude: "47.173233", longitude: "-1.369686" },
         {nom: "LA CHAPELLE-HEULIN 2220", latitude: "47.171776", longitude: "-1.369343" },
         {nom: "LA CHAPELLE-HEULIN 2221", latitude: "47.171776", longitude: "-1.369343" },
