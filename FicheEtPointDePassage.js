@@ -1123,7 +1123,6 @@ const FicheData = {
         {nom: "LE LOROUX-BOTTEREAU 1920", latitude: "47.228767", longitude: "-1.376381" },
         {nom: "LE LOROUX-BOTTEREAU 1281", latitude: "47.232887", longitude: "-1.38093" },
         {nom: "SAINT-JULIEN-DE-CONCELLES 1382", latitude: "47.241814", longitude: "-1.416807" },
-        {nom: "SAINT-JULIEN-DE-CONCELLES 2137", latitude: "47.243244", longitude: "-1.427021" },
         {nom: "SAINT-JULIEN-DE-CONCELLES 2139", latitude: "47.242344", longitude: "-1.428223" },
         {nom: "SAINT-JULIEN-DE-CONCELLES 2138", latitude: "47.242344", longitude: "-1.428223" },
         {nom: "SAINT-JULIEN-DE-CONCELLES 1116", latitude: "47.244904", longitude: "-1.434832" },
