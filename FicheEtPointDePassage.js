@@ -584,7 +584,7 @@ const FicheData = {
         {nom: "GUENROUET 1039", latitude: "47.481022", longitude: "-1.986294" },
         {nom: "GUENROUET 2238", latitude: "47.473724", longitude: "-1.965008" },
         {nom: "QUILLY 1070", latitude: "47.463768", longitude: "-1.962605" },
-        {nom: "LA CHAPELLE-LAUNAY 1367", latitude: "47.461021", longitude: "-1.950331" },
+        {nom: "LA CHAPELLE-LAUNAY 1367", latitude: "47.46098", longitude: "-1.9503483" },
         {nom: "QUILLY 1513", latitude: "47.456047", longitude: "-1.943636" },
         {nom: "CAMPBON 2192", latitude: "47.427376", longitude: "-1.979084" },
         {nom: "CAMPBON 1295", latitude: "47.410245", longitude: "-1.961516" },
