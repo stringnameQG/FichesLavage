@@ -576,7 +576,7 @@ const FicheData = {
         {nom: "SAINT-GILDAS-DES-BOIS 1174", latitude: "47.486771", longitude: "-2.051268" },
         {nom: "SAINTE-ANNE-SUR-BRIVET 2214", latitude: "47.45948", longitude: "-2.006035" },
         {nom: "SAINTE-ANNE-SUR-BRIVET 2213", latitude: "47.45948", longitude: "-2.006035" },
-        {nom: "SAINTE ANNE SUR BRIVET 2038", latitude: "47.46051", longitude: "-1.997881" },
+        {nom: "SAINTE ANNE SUR BRIVET 2038", latitude: "47.460930", longitude: "-1.998953" },
         {nom: "SAINTE ANNE SUR BRIVET 1369", latitude: "47.460393", longitude: "-1.997733" },
         {nom: "SAINTE ANNE SUR BRIVET 1368", latitude: "47.460633", longitude: "-1.997628" },
         {nom: "SAINTE-ANNE-SUR-BRIVET 1901", latitude: "47.455788", longitude: "-1.990585" },
