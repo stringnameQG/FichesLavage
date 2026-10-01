@@ -586,7 +586,7 @@ const FicheData = {
         {nom: "QUILLY 1070", latitude: "47.463768", longitude: "-1.962605" },
         {nom: "LA CHAPELLE-LAUNAY 1367", latitude: "47.46098", longitude: "-1.9503483" },
         {nom: "QUILLY 1513", latitude: "47.456047", longitude: "-1.943636" },
-        {nom: "CAMPBON 2192", latitude: "47.427376", longitude: "-1.979084" },
+        {nom: "CAMPBON 2192", latitude: "47.4275483", longitude: "-1.979343" },
         {nom: "CAMPBON 1295", latitude: "47.410245", longitude: "-1.961516" },
         {nom: "CAMPBON 0328", latitude: "47.414417", longitude: "-1.973419" },
         {nom: "CAMPBON 1936", latitude: "47.411415", longitude: "-1.972389" },
