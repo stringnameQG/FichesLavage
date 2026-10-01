@@ -589,7 +589,7 @@ const FicheData = {
         {nom: "CAMPBON 2192", latitude: "47.4275483", longitude: "-1.979343" },
         {nom: "CAMPBON 1295", latitude: "47.410245", longitude: "-1.961516" },
         {nom: "CAMPBON 0328", latitude: "47.414417", longitude: "-1.973419" },
-        {nom: "CAMPBON 1936", latitude: "47.411415", longitude: "-1.972389" },
+        {nom: "CAMPBON 1936", latitude: "47.4116266", longitude: "-1.9723566" },
         {nom: "CAMPBON 2084", latitude: "47.404964", longitude: "-1.962605" },
         {nom: "CAMPBON 1090", latitude: "47.410042", longitude: "-1.974707" },
         {nom: "SAINTE-ANNE-SUR-BRIVET 1206", latitude: "47.447033", longitude: "-2.02878" },
