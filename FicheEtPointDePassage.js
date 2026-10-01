@@ -580,7 +580,7 @@ const FicheData = {
         {nom: "SAINTE ANNE SUR BRIVET 1369", latitude: "47.460393", longitude: "-1.997733" },
         {nom: "SAINTE ANNE SUR BRIVET 1368", latitude: "47.460633", longitude: "-1.997628" },
         {nom: "SAINTE-ANNE-SUR-BRIVET 1901", latitude: "47.4558837", longitude: "-1.9899278" },
-        {nom: "SAINTE-ANNE-SUR-BRIVET 1650", latitude: "47.462139", longitude: "-1.989555" },
+        {nom: "SAINTE-ANNE-SUR-BRIVET 1650", latitude: "47.4622349", longitude: "-1.989685" },
         {nom: "GUENROUET 1039", latitude: "47.481022", longitude: "-1.986294" },
         {nom: "GUENROUET 2238", latitude: "47.473724", longitude: "-1.965008" },
         {nom: "QUILLY 1070", latitude: "47.463768", longitude: "-1.962605" },
