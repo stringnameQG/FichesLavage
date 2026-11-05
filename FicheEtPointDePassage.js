@@ -418,6 +418,7 @@ const FicheData = {
         {nom: "PLESSE 1665", latitude: "47.516628", longitude: "-1.929216" },
         {nom: "PLESSE 1584", latitude: "47.516586", longitude: "-1.929302" },
         {nom: "PLESSE 2225", latitude: "47.513382", longitude: "-1.931534" },
+        {nom: "GUENROUET 2193", latitude: "47.5130022", longitude: "-1.9582526" },
         {nom: "GUENROUET 1861", latitude: "47.486492", longitude: "-1.925783" },
         {nom: "GUENROUET 1292", latitude: "47.489693", longitude: "-1.931448" },
         {nom: "PLESSE 1799", latitude: "47.508659", longitude: "-1.941233" },
