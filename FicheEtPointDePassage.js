@@ -441,7 +441,7 @@ const FicheData = {
         {nom: "FEGREAC 1794", latitude: "47.555611", longitude: "-1.976337" },
         {nom: "FEGREAC 1651", latitude: "47.554321", longitude: "-1.961918" },
         {nom: "FEGREAC 1813", latitude: "47.588551", longitude: "-2.004404" },
-        {nom: "FEGREAC 1457", latitude: "47.577988", longitude: "-2.0432" },
+        {nom: "FEGREAC 1457", latitude: "47.5779116", longitude: "-2.0444667" },
         {nom: "FEGREAC 1173", latitude: "47.582817", longitude: "-2.044744" },
         {nom: "FEGREAC 1702", latitude: "47.586197", longitude: "-2.0432" },
         {nom: "FEGREAC 2015", latitude: "47.597664", longitude: "-2.029724" },
