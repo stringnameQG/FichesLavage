@@ -453,7 +453,7 @@ const FicheData = {
         {nom: "SAINT-NICOLAS-DE-REDON 2147", latitude: "47.642368", longitude: "-2.043972" },
         {nom: "SAINT-NICOLAS-DE-REDON 2146", latitude: "47.64204", longitude: "-2.059593" },
         {nom: "SAINT-NICOLAS-DE-REDON 2030", latitude: "47.642094", longitude: "-2.061567" },
-        {nom: "FEGREAC 1550", latitude: "47.596035", longitude: "-2.068691" },
+        {nom: "FEGREAC 1550", latitude: "47.5994216", longitude: "-2.0673316" },
         {nom: "SEVERAC 2471", latitude: "47.557068", longitude: "-2.086802" },
         {nom: "MISSILLAC 1948", latitude: "47.519131", longitude: "-2.109804" },
         {nom: "MISSILLAC 1083", latitude: "47.500591", longitude: "-2.132463" },
