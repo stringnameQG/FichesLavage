@@ -1896,6 +1896,11 @@ const FicheData = {
         {nom: "VUE 85", latitude: "47.200379", longitude: "-1.87359" },
         {nom: "ROUANS 13", latitude: "47.19275", longitude: "-1.852515" }
       ]
+    },
+    {
+      description: "Points supprimé",
+      PointDePassages: [
+      ]
     }
   ]
 };

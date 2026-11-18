@@ -140,11 +140,15 @@ window.onload = (event) => {
     let ListPointDePassage = [];
 
     FicheData.fiches.forEach((fiche) => {
-      Object.values(fiche).forEach((pointDePassage) => {
-        if(Array.isArray(pointDePassage)) {  
-          Object.values(pointDePassage).forEach((test) => {
-            if(test.nom.search(chaineRechercher) != -1) {
-              ListPointDePassage.push(test);
+      Object.values(fiche).forEach((tournee) => {
+        if(Array.isArray(tournee)) {
+          Object.values(tournee).forEach((pointDePassage) => {            
+            if(pointDePassage.nom.search(chaineRechercher) != -1) {  
+
+              const clone = Object.assign({}, pointDePassage);
+                    clone.nom = fiche.description + "  -  " + clone.nom
+
+              ListPointDePassage.push(clone);
             }
           })
         }}
