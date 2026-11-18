@@ -1658,6 +1658,13 @@ const FicheData = {
     {
       description: "Affichage Nort TEST",
       PointDePassages: [
+        // TOURNEE 1 SECTEUR 2 a droite
+        {nom: "NORT-SUR-ERDRE 226", latitude: "47.441196", longitude: "-1.50281" },
+        {nom: "NORT-SUR-ERDRE 224", latitude: "47.441196", longitude: "-1.50281" },
+        {nom: "NORT-SUR-ERDRE 225", latitude: "47.441196", longitude: "-1.50281" },
+        {nom: "NORT-SUR-ERDRE 116", latitude: "47.441376", longitude: "-1.502724" },
+        {nom: "NORT-SUR-ERDRE 63", latitude: "47.437851", longitude: "-1.501265" },
+        {nom: "NORT-SUR-ERDRE 64", latitude: "47.440567", longitude: "-1.487446" },
         {nom: "JOUE-SUR-ERDRE 65", latitude: "47.495956", longitude: "-1.41964" },
         {nom: "MOUZEIL 60", latitude: "47.447921", longitude: "-1.346562" },
         {nom: "RIAILLE 67", latitude: "47.519527", longitude: "-1.296129" },
@@ -1762,14 +1769,7 @@ const FicheData = {
         {nom: "SAINT-VINCENT-DES-LANDES 168", latitude: "47.655602", longitude: "-1.498775" },
         {nom: "ISSE 47", latitude: "47.623158", longitude: "-1.452513" },
         {nom: "ABBARETZ 146", latitude: "47.548553", longitude: "-1.532078" },
-        {nom: "SAFFRE 128", latitude: "47.501278", longitude: "-1.576538" },
-        // TOURNEE 1 SECTEUR 2 a droite
-        {nom: "NORT-SUR-ERDRE 226", latitude: "47.441196", longitude: "-1.50281" },
-        {nom: "NORT-SUR-ERDRE 224", latitude: "47.441196", longitude: "-1.50281" },
-        {nom: "NORT-SUR-ERDRE 225", latitude: "47.441196", longitude: "-1.50281" },
-        {nom: "NORT-SUR-ERDRE 116", latitude: "47.441376", longitude: "-1.502724" },
-        {nom: "NORT-SUR-ERDRE 63", latitude: "47.437851", longitude: "-1.501265" },
-        {nom: "NORT-SUR-ERDRE 64", latitude: "47.440567", longitude: "-1.487446" }
+        {nom: "SAFFRE 128", latitude: "47.501278", longitude: "-1.576538" }
       ]
     },
     {
