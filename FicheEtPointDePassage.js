@@ -1899,7 +1899,8 @@ const FicheData = {
     {
       description: "Points supprimé",
       PointDePassages: [
-{nom: "LE CROISIC 1169", latitude: "47.299717", longitude: "-2.535009" }
+{nom: "LE CROISIC 1169", latitude: "47.299717", longitude: "-2.535009" },
+{nom: "LE CROISIC 1580", latitude: "47.292282", longitude: "-2.508574" }
       ]
     }
   ]
