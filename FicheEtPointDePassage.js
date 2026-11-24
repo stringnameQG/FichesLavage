@@ -493,7 +493,6 @@ const FicheData = {
         {nom: "LA TURBALLE 1674", latitude: "47.348412", longitude: "-2.483511" },
         {nom: "LA TURBALLE 313", latitude: "47.354507", longitude: "-2.491922" },
         {nom: "LA TURBALLE 1786", latitude: "47.346096", longitude: "-2.489691" },
-        {nom: "LE CROISIC 1169", latitude: "47.299717", longitude: "-2.535009" },
         {nom: "LE CROISIC 2076", latitude: "47.289192", longitude: "-2.52471" },
         {nom: "BATZ SUR MER 1514", latitude: "47.280941", longitude: "-2.49424" },
         {nom: "RUE DU CARBONET 1605", latitude: "47.274342", longitude: "-2.474413" },
@@ -1900,6 +1899,7 @@ const FicheData = {
     {
       description: "Points supprimé",
       PointDePassages: [
+{nom: "LE CROISIC 1169", latitude: "47.299717", longitude: "-2.535009" }
       ]
     }
   ]
