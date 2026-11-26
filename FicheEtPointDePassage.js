@@ -1899,10 +1899,10 @@ const FicheData = {
     {
       description: "Points supprimé",
       PointDePassages: [
-{nom: "LE CROISIC 1169", latitude: "47.299717", longitude: "-2.535009" },
-{nom: "LE CROISIC 1580", latitude: "47.292282", longitude: "-2.508574" },
-{nom: GUERANDE 2087", latitude: "47.29616772", longitude: "-2.42503006" },
-{nom: "GUERANDE 1232", latitude: "47.29111905", longitude: "-2.39614998" }
+        {nom: "LE CROISIC 1169", latitude: "47.299717", longitude: "-2.535009" },
+        {nom: "LE CROISIC 1580", latitude: "47.292282", longitude: "-2.508574" },
+        {nom: "GUERANDE 2087", latitude: "47.29616772", longitude: "-2.42503006" },
+        {nom: "GUERANDE 1232", latitude: "47.29111905", longitude: "-2.39614998" }
       ]
     }
   ]
